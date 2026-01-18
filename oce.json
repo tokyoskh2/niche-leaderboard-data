@@ -1,26 +1,26 @@
 {
   "niche": [
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
+    { "name": "JaeAQT", "avatar": "https://cdn.discordapp.com/avatars/865794085339267122/0d7fe19328fa769d5dd09df13537504e.webp?size=80", "wins": 1, "losses": 0 },
+    { "name": "v3rtex", "avatar": "https://cdn.discordapp.com/avatars/751397701421236305/eb858e2f775b5570e1ec42e75acec14a.webp?size=80", "wins": 1, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0 },
+    { "name": "AtroBird", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 }
+    { "name": "Enlastment", "avatar": "https://cdn.discordapp.com/avatars/1322748987073368074/c18c6cfdd100d39b54440720de0a9051.webp?size=80", "wins": 1, "losses": 1 }
   ],
   "skill": [
     { "name": "Snoop.", "avatar": "https://cdn.discordapp.com/avatars/411092828542730251/a7335931b9a30ee840b2d1602d430fac.webp?size=80", "wins": 2, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
+    { "name": "vjckz", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
+    { "name": "TatorSkill", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
+    { "name": "qly", "avatar": "https://cdn.discordapp.com/avatars/863075667746357318/cc37259324488ca1d332d2d03fbb33e6.webp?size=80", "wins": 0, "losses": 0 },
     { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 }
+    { "name": "BananaSlinger67", "avatar": "https://cdn.discordapp.com/avatars/928556897773166642/6994dbee02997872d936bd2f128dc94f.webp?size=80", "wins": 1, "losses": 0 },
+    { "name": "Prezzy", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 1, "losses": 0 },
+    { "name": "Walls", "avatar": "https://cdn.discordapp.com/avatars/784332479690440735/a_12684961d32da5054cd37aa82d3f6928.webp?size=80&animated=true", "wins": 0, "losses": 0 },
+    { "name": "Ryu", "avatar": "https://cdn.discordapp.com/avatars/976639049961992242/e54adec08950c161256137b800a541f5.webp?size=80", "wins": 0, "losses": 0 },
+    { "name": "skh2", "avatar": "https://cdn.discordapp.com/avatars/971349261008658482/8c82153943fa07ba36207dd46972c284.webp?size=80", "wins": 1, "losses": 0 }
   ]
 }
